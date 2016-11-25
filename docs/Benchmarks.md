@@ -1,4 +1,6 @@
-Students that attract funding will be entered into the Summer Fellows program at the Fairfield University Entrepreneurship Laboratory (FUEL) where expert mentors will guide them through the process of launching their companies. The summer program will conclude with a second investor Showcase event where the startups can attract direct investment from local investors and alumni.
+```<!--- Students that attract funding will be entered into the Summer Fellows program at the Fairfield University Entrepreneurship Laboratory (FUEL) where expert mentors will guide them through the process of launching their companies. The summer program will conclude with a second investor Showcase event where the startups can attract direct investment from local investors and alumni.
+--->
+```
 
 #Loyola University Chicago
 ![Quilan Social Enterprise Competition](images/screenshot_luc.png)
