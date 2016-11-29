@@ -1,6 +1,6 @@
 ```html
-<!--- Students that attract funding will be entered into the Summer Fellows program at the Fairfield University Entrepreneurship Laboratory (FUEL) where expert mentors will guide them through the process of launching their companies. The summer program will conclude with a second investor Showcase event where the startups can attract direct investment from local investors and alumni.
---->
+<!-- Students that attract funding will be entered into the Summer Fellows program at the Fairfield University Entrepreneurship Laboratory (FUEL) where expert mentors will guide them through the process of launching their companies. The summer program will conclude with a second investor Showcase event where the startups can attract direct investment from local investors and alumni.
+-->
 ```
 
 #Loyola University Chicago
@@ -20,3 +20,11 @@ http://www.startatshea.com/
 Similar to Fairfield's FEUL program, Boston College's Accelerate@Shea, is a 6-week program that provides student startups with *expert advice, space, and funding to launch and grow their business.*
 
 The collapsed scrolling style of the website makes it easy to navigate. The landing page is divided into two sections: "How It Works" and "Teams". The graphic displayed in the first section briefly outlines the components of the program. The "Teams" section displays the teams in two columns. The respective website and social media accounts are located underneath the team's picture. Once the user hovers over the picture of the group, a brief blurb about the team is shown.
+
+#Emory Entrepreneurship & Venture Management (EEVM)
+![EEVM](images/screenshot_eevm.png)
+http://eevm.org/excellerator/index.html
+
+Unlike the other sites, EEVM is a student-run organization dedicated to Emory undergraduate, graduate, professional students, faulty and alumni from around the world.
+
+The uppermost section has a timed slideshow containing the mission of  goals of the accelerate program. The next section displays the information related to the program. The fourth section has an animated chart. The next section outlines the program.
