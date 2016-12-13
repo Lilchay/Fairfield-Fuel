@@ -17,7 +17,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
-  <!--  <link href="styles.css" rel="stylesheet"> -->
+   <link href="styles.css" rel="stylesheet">
   </head>
   <body>
 
@@ -38,26 +38,27 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-            <li class="active"><a href="#Home">Home <span class="sr-only">(current)</span></a></li>
+            <li class="active"><a href="#home">Home <span class="sr-only">(current)</span></a></li>
               <li><a href="#About">About</a></li>
               <li><a href="#Services">Services</a></li>
               <li><a href="#Team">Team</a></li>
               <li><a href="#Contact">Contact</a></li>
               </ul>
           </div><!--/.nav-collapse -->
-        </div>
+
       </nav>
 
 </div>
 </div>
+</div> <!--close nav wrapper-->
 
     <!-- Carousel
     ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#home" data-slide-to="0" class="active"></li>
+        <li data-target="#home" data-slide-to="1"></li>
 
       </ol>
       <div class="carousel-inner" role="listbox">
@@ -75,7 +76,7 @@
           <img class="second-slide" src="images/FairfieldUniversity-Oct2012-45.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1> Nurturing. Strategic</h1>
+              <h1> Local. Nurturing. Strategic</h1>
               <p>A business incubator located at Fairfield University dedicated to students and alumni.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
             </div>
@@ -83,14 +84,11 @@
         </div>
 
           </div>
-        </div>
-      </div>
-
-    </div><!-- /.carousel -->
+        </div><!-- /.carousel -->
 
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
-        <div id="about" class="container marketing">
+        <div id="About" class="container marketing">
 
           <!-- Three columns of text below the carousel -->
 
@@ -114,11 +112,12 @@
 
             </div><!-- /.col-lg-4 -->
           </div><!-- /.row -->
-
+</div>
           <!-- START THE FEATURETTES -->
 
      <hr class="featurette-divider">
-
+     <div id="Services" class="container">
+       <div class="row">
      <div class="row featurette">
        <div id="services" class="col-md-7">
          <h2 class="featurette-heading">Steps For Success</h2>
@@ -129,7 +128,7 @@
              <li> Create A Track Record <br> <span class="text-muted">Build the case you will need to promote your business to potential staffs.</span> </li>
              <li> Launch Your Business <br> <span class="text-muted">Execute your plan knowing that you’ve got all the support you need to succeed.</span> </li>
          </ol></p>
-
+</div>
        </div>
 
 
@@ -165,10 +164,11 @@
 
        </div>
      </div>
+</div> <!-- container -->
 
      <hr class="featurette-divider">
-
-     <div id="team" class="panel panel-primary">
+     <div id="Team" class="container">
+     <div class="panel panel-primary">
        <div class="panel-heading">
          <h1 class="panel-title">
            <div class="row featurette">
@@ -258,10 +258,15 @@
        </div>
 
      </div>
+   </div>
+ </div>
+ </div> <!--container -->
+
 
      <hr class="featurette-divider">
+     <div id="Contact" class="container">
 <!-- Form -->
-     <div id="contact" class="row featurette">
+     <div  class="row featurette">
        <div class="col-md-7">
          <h2 class="featurette-heading">Contact Us. <span class="text-muted" style="font-size=15px;"></span> Stay Updated.</h2>
          <form>
@@ -287,19 +292,19 @@
 
        </div>
      </div>
-
+</div> <!-- End Container-->
      <hr class="featurette-divider">
 
      <!-- /END THE FEATURETTES -->
 
      <!-- FOOTER -->
            <footer class="page-footer row">
-             <p class="pull-right"><a href="#Home">Back to Top</a></p>
+             <div><p class="pull-right"><a href="home">Back to Top</a></p>
                <a href="index.html"><img src="images/footer_ffld_logo.png" class="center-block" alt="Fairfield Logo"> </a>
-             <p>&copy; 2016 Fairfield FUEL &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+             <p>&copy; 2016 Fairfield FUEL &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p></div>
            </footer>
 
-         </div><!-- /.container -->
+
 
          <!-- Bootstrap core JavaScript
              ================================================== -->
